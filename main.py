@@ -7,7 +7,7 @@ after midnight to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "Bold of you to lock up at midnight, fridge \u2014 you're not protecting the diet, you're just the only appliance here with a curfew and a God complex."
+LINE = "Bold curfew, fridge \u2014 you don't lock at midnight to save my diet; you just love being the one appliance whose 'no' I must negotiate with in bare feet."
 MAX_CHARS = 200
 
 
